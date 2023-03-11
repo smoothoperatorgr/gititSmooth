@@ -1,6 +1,8 @@
+The idea behind gitit is a client for desktop that works like https://github.com/ImranR98/Obtainium that is a installer and updater of releases of various sources of Android Apk!
+
 # Tauri + Vanilla
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This App is made with Tauri in vanilla HTML, CSS and Javascript, plus pnpm!
 
 ## Recommended IDE Setup
 
