@@ -1,4 +1,4 @@
-The idea behind gitit is a client for desktop that works like https://github.com/ImranR98/Obtainium that is a installer and updater of releases of various sources of Android Apk!
+The idea behind gititsmooth is a client for desktop that works like https://github.com/ImranR98/Obtainium that is a installer and updater of releases of various sources of Android Apk!
 
 # Tauri + Vanilla
 
